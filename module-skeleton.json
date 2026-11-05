@@ -1,0 +1,15 @@
+{
+  "repository": "module-liberu-executive-insights-b7a299fc-dart-desktop",
+  "capabilityKey": "liberusoftware/liberu-executive-insights",
+  "presentation": "dart-desktop",
+  "package": "module_liberu_executive_insights_b7a299fc_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/automation/nextjs/liberu-executive-insights.md",
+  "presentationPlan": "projects/automation/features/liberu-executive-insights.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
